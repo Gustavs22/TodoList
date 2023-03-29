@@ -4,7 +4,6 @@ import {
   faCirclePlus,
   faPenToSquare,
   faCheck,
-  //faTrashCan,
   faTrashCanArrowUp,
   faThumbsDown,
   faBookmark,
